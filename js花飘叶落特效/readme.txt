@@ -11,7 +11,7 @@
     JSRun provides you with packaged download services, 
     Get the latest version of the source code for this project please visit:
 
-    http://jsrun.net/QDZKp
+    http://www.iacblog.com
 
 
 
