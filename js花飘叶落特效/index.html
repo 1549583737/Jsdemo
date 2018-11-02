@@ -8,7 +8,25 @@
 
     <script type="text/javascript" src="main.js" ></script>
     <link rel="stylesheet" type="text/css" href="main.css"/>
-
+	<script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?3f36f7b91183bbb1e725acfd99f471a1";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+	</script>
+<script>
+    document.oncontextmenu = function () { return false; };
+    document.onkeydown = function () {
+        if (window.event && window.event.keyCode == 123) {
+            event.keyCode = 0;
+            event.returnValue = false;
+            return false;
+        }
+    };
+</script>
 </head>
 <body>
 <canvas id="sakura"></canvas>
@@ -47,7 +65,7 @@
 
 		<li style="border-right: 1px solid #444444; border-right: 0px;">
 
-		  <a href="tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=1123412185" target="_blank" title="联系我吧">联系我吧</a>
+		  <a href="https://github.com/CrazyNing98/jsdemo" target="_blank" title="Github">源码下载</a>
 
 
 		</li>
@@ -93,6 +111,7 @@
 
 
 <audio loop src="https://cdn.iacblog.com/%E9%9F%B3%E9%98%99%E8%AF%97%E5%90%AC%20-%20%E7%BA%A2%E6%98%AD%E6%84%BF.mp3" id="audio" autoplay preload="auto">该浏览器不支持audio属性</audio>
+
 
 
 <script type="text/javascript">
