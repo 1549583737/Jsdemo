@@ -10,3 +10,6 @@ https://crazyning98.github.io/jsdemo/js花漂叶落特效
 
 js鼠标粒子跟随特效
 https://crazyning98.github.io/jsdemo/js鼠标粒子跟随特效
+
+js黑客文字下落
+https://crazyning98.github.io/jsdemo/js黑客文字下落
