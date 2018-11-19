@@ -22,3 +22,12 @@ https://crazyning98.github.io/Jsdemo/js生成印章图案
 
 js色彩粒子背景
 https://crazyning98.github.io/Jsdemo/js色彩粒子背景
+
+js鼠标移动粒子效果动画
+https://crazyning98.github.io/Jsdemo/js鼠标移动粒子效果动画
+
+js鼠标经过粒子散开动画
+https://crazyning98.github.io/Jsdemo/js鼠标经过粒子散开动画
+
+js圆点发散动画
+https://crazyning98.github.io/Jsdemo/js圆点发散动画
