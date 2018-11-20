@@ -1,15 +1,14 @@
 # Jsdemo
-share js code
 
+##### share js code
 
-
-一些值得分享的js特效，精简，常用，拿来即用
+#### 一些值得分享的js特效，精简，常用，拿来即用
 
 js动态背景特效
 https://crazyning98.github.io/Jsdemo/js动态背景特效
 
 js花漂叶落特效
-https://crazyning98.github.io/Jsdemo/js花漂叶落特效
+https://crazyning98.github.io/Jsdemo/js花飘叶落特效
 
 js鼠标粒子跟随
 https://crazyning98.github.io/Jsdemo/js鼠标粒子跟随
@@ -31,3 +30,9 @@ https://crazyning98.github.io/Jsdemo/js鼠标经过粒子散开动画
 
 js圆点发散动画
 https://crazyning98.github.io/Jsdemo/js圆点发散动画
+
+
+
+#### 											building 2018-9-10
+
+#### 											by：CrazyNing98
