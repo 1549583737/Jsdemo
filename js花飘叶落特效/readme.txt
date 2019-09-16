@@ -11,11 +11,7 @@
     JSRun provides you with packaged download services, 
     Get the latest version of the source code for this project please visit:
 
-<<<<<<< HEAD
 	www.iacblog.com
-=======
-    http://www.iacblog.com
->>>>>>> 77f2b8f7108eb71c3f0048fc35cbcc2f7c8efda0
 
 
 
